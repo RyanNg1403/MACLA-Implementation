@@ -24,26 +24,6 @@ MACLA is a domain-agnostic continual learning framework that enables LLM-based a
 
 ---
 
-## 📈 Performance Highlights
-
-| Benchmark | MACLA (Ours) | ReAct | Reflexion | Improvement |
-|-----------|--------------|-------|-----------|-------------|
-| **ALFWorld-Seen** | 87.2% | 71.4% | 68.9% | **+15.8%** |
-| **ALFWorld-Unseen** | 90.3% | 72.1% | 69.5% | **+18.2%** |
-| **TravelPlanner** | 83.3% | 68.7% | 70.2% | **+13.1%** |
-| **WebShop** | 70.2% | 58.3% | 61.5% | **+8.7%** |
-
-*All experiments use Llama-2-7B as the base model*
-
-### Efficiency Metrics
-
-- **Memory Compression**: 15:1 ratio (2,851 trajectories → 187 procedures)
-- **LLM Token Reduction**: 85% fewer tokens per episode
-- **Sample Efficiency**: 82% success rate using only 50% of training data
-- **Memory Saturation**: Optimal capacity at 150-200 procedures
-
----
-
 ## 🛠️ Installation
 
 ### Prerequisites
