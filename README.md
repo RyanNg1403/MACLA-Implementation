@@ -1,11 +1,11 @@
 # MACLA: Memory-Augmented Continual Learning Agent
 
-[![AAMAS 2025](https://img.shields.io/badge/AAMAS-2025-blue)](https://www.aamas2025.org/)
+[![AAMAS 2026](https://img.shields.io/badge/AAMAS-2026-blue)](https://www.aamas2026.org/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Official implementation of "MACLA: Memory-Augmented Continual Learning Agent"**  
-*Accepted as Oral Presentation at The 25th International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS 2025)*
+*Accepted as Oral Presentation at The 25th International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS 2026)*
 
 ---
 
@@ -315,7 +315,7 @@ agent.load_memory("checkpoints/alfworld_memory.pkl")
 If you use MACLA in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{macla2025,
+@inproceedings{macla2026,
   title={MACLA: Memory-Augmented Continual Learning Agent},
   author={Forouzandeh, Saman and Peng, Wei and Moradi, Parham and  Yu, Xinghuo and Jalili, Mahdi},
   booktitle={Proceedings of the 25th International Conference on Autonomous Agents and Multi-Agent Systems},
@@ -422,7 +422,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **AAMAS 2025** reviewers for valuable feedback
+- **AAMAS 2026** reviewers for valuable feedback
 - **ALFWorld**, **WebShop**, **TravelPlanner**, and **InterCodeSQL** benchmark teams
 - **Anthropic** for Claude API access during development
 - **Meta AI** for Llama-2 model
