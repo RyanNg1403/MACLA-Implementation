@@ -1,0 +1,9 @@
+ollama
+sentence-transformers
+numpy
+scipy
+scikit-learn
+
+# Optional: visualization
+matplotlib
+seaborn
